@@ -1,0 +1,6 @@
+{
+  "name": "The Q — Haute Sculpture Atelier & Studio",
+  "description": "Luxury minimalist jewelry atelier storefront and cryptographic curator studio console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
